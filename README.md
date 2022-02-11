@@ -1,5 +1,5 @@
 # ColorMyViews App
-From Udacity course "Developing Android Apps with Kotlin".
+From Udacity course "Developing Android Apps with Kotlin". The ColorMyViews app demonstrated how to use the ConstraintLayout using the Android Studio's Layout Edior. This app consists of clickable TextView views that change colors when tapped and chained Button views.
 
 Screen 1           |  Screen 2
 :-------------------------:|:-------------------------:
